@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Costigan-Stephen.github.io/archive-h2ca02/sitemap.xml
